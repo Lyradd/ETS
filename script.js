@@ -1,5 +1,5 @@
 const ElementID = document.getElementById("result");
-const Url = "http://159.223.51.203/api/bio";
+const Url = "http://159.223.51.203:81/api/bio";
 
 function Card(name, id) {
   //styling cards
